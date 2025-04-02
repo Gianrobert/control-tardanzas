@@ -16,7 +16,7 @@ $data = json_decode(file_get_contents($dataFile), true);
     <title>Registro de Tardanzas</title>
 </head>
 <body>
-    <h2>Lista de Estudiantes que Llegaron Tarde</h2>
+    <h2>Lista de los  Estudiantes que Llegaron Tarde</h2>
 
     <!-- Tabla para mostrar la lista de estudiantes que llegaron tarde -->
     <table border="1">
