@@ -23,7 +23,7 @@ $data = json_decode(file_get_contents($dataFile), true);
         <tr>
             <th>Matrícula</th>
             <th>Nombre</th>
-            <th>Apellido</th>
+            <th>Apellidos</th>
             <th>Curso</th>
             <th>Motivo</th>
             <th>Fecha</th>
