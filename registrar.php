@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Registrar  Tardanza</h2>
+        <h2>Registrar Nueva Tardanza</h2>
 
         <form action="guardar.php" method="post">
             <input type="text" name="matricula" placeholder="Matrícula" required>
